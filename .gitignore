@@ -1,0 +1,5 @@
+.DS_Store
+fsund/
+auralius/
+__pycache__/
+*.pyc
